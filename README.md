@@ -34,7 +34,6 @@ a. Centralized Communication Hub<br>
 b. Task Management and Progress Tracking<br>
 c. Resource Allocation and Optimization<br>
 d. Collaboration Tools and Knowledge Sharing<br>
-e. Analytics and Performance Metrics
 
 **4. Benefits:**
 
@@ -42,7 +41,6 @@ a. Enhanced Communication and Collaboration<br>
 b. Improved Task Management and Productivity<br>
 c. Optimal Resource Utilization<br>
 d. Accelerated Decision-Making<br>
-e. Data-Driven Performance Improvement
 
 **5. Conclusion:**
 
