@@ -21,7 +21,7 @@ Objective: Implement a task management feature that enables seamless task assign
 c. *Resource Allocation:*
 
 Issue: Allocating resources across teams is inefficient, leading to overloads or underutilization of team members.<br>
-Objective: Create a resource allocation module that optimizes team member allocation based on skills, availability, and project requirements.*
+Objective: Create a resource allocation module that optimizes team member allocation based on skills, availability, and project requirements.
 
 d. *Collaboration and Knowledge Sharing:*
 
