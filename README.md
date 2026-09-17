@@ -1,5 +1,11 @@
 # TEAM-MANAGEMENT
 
+<p align="center">
+  <img src="./er-diagram.png" alt="Database Schema" width="800">
+</p>
+
+---
+
 In the dynamic landscape of collaborative work environments, effective team management is paramount for achieving organizational goals. The existing team management processes within our organization lack cohesion, resulting in challenges related to communication, collaboration, and overall productivity. To address these issues, we propose the development of a comprehensive Team Management System
 
 **1. Introduction:**
